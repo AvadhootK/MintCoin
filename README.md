@@ -1,2 +1,2 @@
 # MintCoin
-This is a basic Blockchain based Cryptocurrenty written in javascript.
+This is a basic Blockchain written in javascript.
